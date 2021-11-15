@@ -1,6 +1,6 @@
 # Shared task: EACL 2021
 * Team Phoenix at WASSA 2021: Emotion Analysis on News Stories with Pre-Trained Language Models
-* We participate in Both the tracks:    
+* We participated in Both the tracks:    
   * Track 1: Emmpathy and distress prediction
   * Track 2: Emotion prediction. 
 * The repsitory contains code and dataset to the paper publised at the **11th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis.** held in  conjuntion with EACL 2021.  
